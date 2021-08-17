@@ -26,7 +26,7 @@ class UIShell extends Component {
   header = "Garage for Cloud Catalyst";
   menuTitle = "12 Design Pattern";
   menuItems = [
-    "Display Form",
+    "The pipeline worked!",
     "Validating Form",
     "Update Form",
     "Validating Form Wizard 1",
